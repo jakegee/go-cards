@@ -1,2 +1,2 @@
-# go-cards
-Go learning building and shuffling a deck of cards
+# gocards
+Deck of cards in Go
